@@ -15,6 +15,7 @@ namespace gitkay2
         public Form1()
         {
             InitializeComponent();
+            // Dammit i have to commit
         }
     }
 }
